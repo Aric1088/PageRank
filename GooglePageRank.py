@@ -43,5 +43,5 @@ def multiply(rank, transition, epsilon):
         print( "Iteration " + str(counter) + "\n") 
         print(new)
         print("\n") 
-
-run()
+while(True):
+    run()
